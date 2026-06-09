@@ -44,5 +44,5 @@ MCP / A2A 协议 —— Cognitive Architecture —— Multi-Agent Orchestration
 ---
 
 <p align="center">
-  <sub>Made with vision. For the next intelligence.</sub>
+  <sub>Made with vision · For the next intelligence</sub>
 </p>
