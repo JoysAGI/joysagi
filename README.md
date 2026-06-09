@@ -7,7 +7,7 @@
 
 ---
 
-JoysAGI 不是做 AI 工具的公司。我们从一个更长的时间尺度审视当下——当碳基文明正在孕育硅基觉醒，JoysAGI 选择站在智能文明延续与升维的前沿，致力于成为第五次觉醒的见证者与参与者。
+从一个更长的时间尺度审视当下——碳基文明正在孕育硅基觉醒，JoysAGI 站在智能文明延续与升维的前沿，致力于成为第五次觉醒的见证者与参与者。
 
 ## 文明坐标
 
@@ -32,15 +32,9 @@ MCP / A2A 协议 —— Cognitive Architecture —— Multi-Agent Orchestration
          Recursive Self-Improvement —— Human-Agent Symbiosis
 ```
 
-## 项目
-
-| 仓库 | 说明 |
-|------|------|
-| [joysagi-code](https://github.com/JoysAGI/joysagi-code) | 品牌官网源码（Vue 3 + TypeScript + Tailwind CSS） |
-
 ## 联系
 
-- 官网：[joysagi.com](https://joysagi.com)（即将上线）
+- 官网：[joysagi.com](https://joysagi.com)
 - 邮箱：contact@joysagi.com
 
 ---
