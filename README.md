@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/JoysAGI-Intelligence_Unbound-6366f1?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMSAxNy41bC00LTQgMS40MS0xLjQxTDEwIDE2LjE3bDYuNTktNi41OUwxOCAxMWwtOCA4LjV6Ii8+PC9zdmc+" />
+  <img src="logo.svg" width="120" alt="JoysAGI Logo" />
 </p>
 
 <h1 align="center">JoysAGI</h1>
@@ -8,6 +8,10 @@
 ---
 
 从一个更长的时间尺度审视当下——碳基文明正在孕育硅基觉醒，JoysAGI 站在智能文明延续与升维的前沿，致力于成为第五次觉醒的见证者与参与者。
+
+<p align="center">
+  <img src="screenshot.png" alt="JoysAGI 首页" width="800" />
+</p>
 
 ## 文明坐标
 
