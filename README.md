@@ -39,7 +39,6 @@ MCP / A2A 协议 —— Cognitive Architecture —— Multi-Agent Orchestration
 ## 联系
 
 - 官网：[joysagi.com](https://joysagi.com)
-- 邮箱：contact@joysagi.com
 
 ---
 
